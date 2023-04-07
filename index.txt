@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+ <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>google</title>
+    <link rel="stylesheet" type="text/css" href="googleclon.css">
+  </head>
+  <body>
+    <div class="main">
+      <div id="img"><img src="C:\Users\cd302\Downloads\google_logo.svg"></div>
+      <div class="bar" ><img src="C:\Users\cd302\Downloads\icon_search.svg" id="icon"><input type="text" placeholder="Search Google or Type URL" id="search"></input><img src="C:\Users\cd302\Downloads\googlemic_clr_24px.svg" id="mic"></div>
+       <div class="bottom">
+         <img src="C:\Users\cd302\Downloads\favicon2_.png" id="chrome">
+         <img src="C:\Users\cd302\Downloads\add.svg" id="add">
+       </div> 
+       <div class="text">Web Store <span id="text">Add Shortcut</span> </divS>
+    </div>
+  </body>
+ </html>

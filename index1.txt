@@ -1,0 +1,56 @@
+.main{
+    text-align:center;
+}
+#img{
+ margin-top:120px;
+ margin-bottom:20px;
+}
+.bar{
+    text-align:center;
+    background-color: white;
+    width:390px;
+    border-radius:50px;
+    border:2px rgb(244, 239, 239) solid;
+    margin-left: 120px;
+    
+}
+#search{
+
+    width: 300px;
+    height: 30px;
+    border: none;
+}
+#icon{
+    position:relative;
+    top:7px;
+}
+#mic{
+    position: relative;
+    top: 7px;
+}
+.bottom{
+    margin-top: 30px;
+    margin-bottom: 0;
+    
+}
+#chrome{
+ width: 50px;
+ background-color: rgb(249, 245, 240);
+ border: 1px rgb(249, 245, 240) solid;
+ border-radius: 50px;
+ margin-left: -10px;
+ margin-right: 60px;
+}
+#add{
+    width: 50px;
+    background-color: rgb(249, 245, 240);
+    border-radius: 50px;
+    margin-left:
+
+}
+#text{
+    margin-left: 40px;
+}
+.text{
+    margin-top: -5px;
+}
