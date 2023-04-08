@@ -8,7 +8,8 @@
 .bar{
     text-align:center;
     background-color: white;
-    width:390px;
+    margin-left:100px;
+    margin-right:100px;
     border-radius:50px;
     border:2px rgb(244, 239, 239) solid;
     margin-left: 120px;
