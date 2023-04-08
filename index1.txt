@@ -6,17 +6,15 @@
  margin-bottom:20px;
 }
 .bar{
-    text-align:center;
     background-color: white;
     margin-left:100px;
     margin-right:100px;
     border-radius:50px;
     border:2px rgb(244, 239, 239) solid;
-    margin-left: 120px;
-    
 }
 #search{
-
+    font-size: 17px;
+    margin-left: 6px;
     width: 300px;
     height: 30px;
     border: none;
